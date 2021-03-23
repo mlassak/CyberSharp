@@ -1,5 +1,0 @@
-C:\Users\Marek\Desktop\test\CyberSharp.exe
-C:\Users\Marek\Desktop\test\CyberSharp.dll
-C:\Users\Marek\Desktop\test\CyberSharp.deps.json
-C:\Users\Marek\Desktop\test\CyberSharp.runtimeconfig.json
-C:\Users\Marek\Desktop\test\CyberSharp.pdb
