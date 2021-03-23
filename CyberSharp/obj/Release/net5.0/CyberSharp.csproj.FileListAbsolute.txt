@@ -1,0 +1,16 @@
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.exe
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.deps.json
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.runtimeconfig.json
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.runtimeconfig.dev.json
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.dll
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\ref\CyberSharp.dll
+C:\Users\Marek\Desktop\test\CyberSharp\bin\Release\net5.0\CyberSharp.pdb
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.AssemblyInfoInputs.cache
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.AssemblyInfo.cs
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.dll
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\ref\CyberSharp.dll
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.pdb
+C:\Users\Marek\Desktop\test\CyberSharp\obj\Release\net5.0\CyberSharp.genruntimeconfig.cache
