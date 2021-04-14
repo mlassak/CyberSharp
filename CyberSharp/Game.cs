@@ -12,14 +12,10 @@ namespace CyberSharp
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Wake up, hackerman, we've got a city to burn. I actually meant that as a metaphor, whatever...");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
+            
             Console.Write("Enter your name: ");
             Console.ForegroundColor = ConsoleColor.Magenta;
-            var playerName = Console.ReadLine();   
-            if (playerName.ToLower().Equals("thason"))
-            {
-                Console.WriteLine("Pardon my slightly arrogant behavior kind sir, I'm just a poorly programmed \"NPC\" who worked overtime throughout last week");
-            }
-
+            var playerName = Console.ReadLine();
             var player = new Player(playerName);
 
 
