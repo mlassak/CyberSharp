@@ -11,10 +11,10 @@ namespace CyberSharp
         public EpicPerson() : base()
         {
             base.BtcVallet = new BitcoinVallet(
-                RNGesus.GenerateInitBalance(balanceMin, balanceMax),
-                Generator.GetRandomBtcAddress(),
-                Generator.GetRandomPassword()
-                );
+                                    RNGesus.GenerateInitBalance(balanceMin, balanceMax),
+                                    Generator.GetRandomBtcAddress(),
+                                    Generator.GetRandomPassword()
+                               );
         }
 
         public override int CalculateDefence() => defenceSequence[base.HackCounter % defenceSequence.Length];
