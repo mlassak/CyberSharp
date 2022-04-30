@@ -2,7 +2,7 @@
 
 namespace CyberSharp.Helpers
 {
-    public static class RNG
+    public static class RNGhelper
     {
         public static readonly Random RNG = new Random();       
 
