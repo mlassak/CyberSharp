@@ -9,14 +9,14 @@ public class CommonPerson : AbstractPerson
 
 	public CommonPerson() : base()
 	{
-		if (RNGesus.RNG.NextDouble() > 0.25)       
+		if (RNGhelper.RNG.NextDouble() > 0.25)       
 		{
 			base.BtcVallet = new BitcoinVallet(
-				RNGesus.GenerateInitBalance(balanceMin, balanceMax),
-				Generator.GetRandomBtcAddress(),
-				Generator.GetRandomPassword()
-				);
-        } 
+						RNG.GenerateInitBalance(balanceMin, balanceMax),
+						Generator.GetRandomBtcAddress(),
+						Generator.GetRandomPassword()
+					);
+        	} 
 	}
 
 	public override int CalculateDefence() => defenceSequence[base.HackCounter % defenceSequence.Length]; 
