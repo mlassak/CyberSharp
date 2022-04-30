@@ -2,7 +2,7 @@
 
 namespace CyberSharp.Helpers
 {
-    public static class RNGesus        //this should be the only meme class/variable name in the project, at least I hope so, forgive me please
+    public static class RNG
     {
         public static readonly Random RNG = new Random();       
 
